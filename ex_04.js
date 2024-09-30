@@ -1,0 +1,6 @@
+displayThisText(typeof undefined)
+displayThisText(typeof true)
+displayThisText(typeof 5)
+displayThisText(typeof BigInt(9007199254740991))
+displayThisText(typeof Symbol())
+displayThisText(typeof $)
